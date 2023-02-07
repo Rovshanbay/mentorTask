@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mentorTask", "mentorTask\mentorTask.csproj", "{357ADB05-1241-4C83-BFFE-E2B605DE3DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{357ADB05-1241-4C83-BFFE-E2B605DE3DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357ADB05-1241-4C83-BFFE-E2B605DE3DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357ADB05-1241-4C83-BFFE-E2B605DE3DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357ADB05-1241-4C83-BFFE-E2B605DE3DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44D8FED3-0C0A-480D-8DBC-9B1ED2DC5D0A}
+	EndGlobalSection
+EndGlobal
